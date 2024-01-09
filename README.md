@@ -15,3 +15,7 @@ Jika pembuatan file telah selesai, kamu bisa menyimpannya dengan menekan “comm
 Terakhir kamu bisa mengeksplorasi segala postingan dalam halaman feed yang telah diatur oleh GitHub. Tentu sesuai dengan ketertarikanmu. Di sini kamu bisa memberikan like, berkomentar, berkenalan, dan berdiskusi untuk membahas algoritma tertentu misalnya. Tentunya, kamu juga dapat memposting segala sesuatu kepada public.
 
 Tidak hanya itu, jika kamu bosan dengan menu explore yang disediakan GitHub, maka kamu bisa membaca blog yang ada pada GitHub. Terdapat fitur lainnya yang disediakan oleh GitHub untuk kamu temukan sendiri.
+
+
+![hsss](https://github.com/wathie/labsekolah/assets/156059851/7cfa7168-8a3a-4a9b-bb23-d9a3750908b7)
+
